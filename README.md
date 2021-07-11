@@ -1,2 +1,9 @@
-# notebook-for-remember
-some notebook during learn,to review.
+# css和html部分的笔记
+重点:视觉格式化模型
+1. 常规流
+2. 浮动
+3. 定位
+
+bfc块级格式化上下文
+
+一些应用
